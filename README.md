@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is my first Repositry.
+This is my first Repository.
 <br>
 Author-Rashmi Mishra
 
